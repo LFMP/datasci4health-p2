@@ -42,7 +42,7 @@ Também foi feita uma implementação de modelos via workflow, utilizando o prog
 
 ## Metodologia
 
-Após elaborar nossa pergunta de pesquisa, foi realizada uma análise de dados de a construção e validação de um modelo de predição. Os detalhes de cada etapa, bem como os resultados obtidos e discussões, podem ser encontrados juntamente com o código Python, disponível no [arquivo notebook](notebooks/P2.ipynb).
+Após elaborar nossa pergunta de pesquisa, foi realizada uma análise de dados de a construção e validação de um modelo de predição. Os detalhes de cada etapa, bem como os resultados obtidos e discussões, podem ser encontrados juntamente com o código Python, disponível no [arquivo notebook](notebooks/P2.ipynb). Caso encontre problemas de visualização, uma cópia está disponível no [Google Colaboratory](https://colab.research.google.com/drive/113QuyR-_70AoSQ4Dch_Wwn7YmpjP7g30?usp=sharing).
 
 ## Problemas desta abordagem
 
