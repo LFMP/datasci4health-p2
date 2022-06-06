@@ -4,10 +4,10 @@
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://ds4h.org), oferecida no primeiro semestre de 2022, na Unicamp.
 
-| **Nome**  | **RA**  | **Especialização**  |
-|:--------: |:------: |:------------------: |
-|Leonardo Rodrigues da Costa|146895|Física|
-|Luiz Fellipe Machi Pereira|203532|Computação|
+|          **Nome**           | **RA** | **Especialização** |
+| :-------------------------: | :----: | :----------------: |
+| Leonardo Rodrigues da Costa | 146895 |       Física       |
+| Luiz Fellipe Machi Pereira  | 203532 |     Computação     |
 
 ## Referência bibliográfica do artigo lido
 
@@ -15,7 +15,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 ## Resumo
 
-> Escreva um breve do artigo (com as suas palavras, não deve ser copiado texto do artigo).
+O artigo em questão foca na identificação de rich clubs nos cérebros de mamífero uma vez que poderiam representar uma infraestrutura de comunicação entre os diferentes domínios do cérebro. O autor utiliza o dataset de conectividade de cérebros de gatos para evidenciar a importância de rich clubs estruturais para interligar domínios funcionais. Para provar seu ponto, o autor demonstra que pelo menos 90% dos caminhos de comunicação inter-modais envolvem ou atravesam rich clubs rich clubs. Entre os experimentos realizados pelo autor estão: a identificação de rich clubs e sua participação em modulos funcionais do cérebro, cálculo de centralidade e homogeneidade dos rich clubs, além da análise de motifis de caminhos de comunicação.
 
 ## Breve descrição do experimento/análise do artigo que foi replicado
 
@@ -23,9 +23,9 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 ## Dados usados como entrada
 
-Dataset | Endereço na Web | Resumo descritivo
------ | ----- | -----
-Mixed.species_brain_1 | [Link para base](https://s3.amazonaws.com/connectome-graphs/cat/mixed.species_brain_1.graphml) | O conjunto de dados de conectividade do gato compreende uma descrição das conexões corticocorticais no cérebro do gato. Nenhuma informação específica sobre o sexo dos animais incluídos estava disponível, sugerindo que o conjunto de dados inclui informações combinadas sobre a conectividade de gatos machos e fêmeas. O conjunto incorpora dados de um hemisfério, incluindo 65 regiões, ou nós, e 1139 projeções axonais macroscópicas inter-regionais, ou arestas, com a força das conexões.
+| Dataset               | Endereço na Web                                                                                | Resumo descritivo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mixed.species_brain_1 | [Link para base](https://s3.amazonaws.com/connectome-graphs/cat/mixed.species_brain_1.graphml) | O conjunto de dados de conectividade do gato compreende uma descrição das conexões corticocorticais no cérebro do gato. Nenhuma informação específica sobre o sexo dos animais incluídos estava disponível, sugerindo que o conjunto de dados inclui informações combinadas sobre a conectividade de gatos machos e fêmeas. O conjunto incorpora dados de um hemisfério, incluindo 65 regiões, ou nós, e 1139 projeções axonais macroscópicas inter-regionais, ou arestas, com a força das conexões. |
 
 ## Método
 
