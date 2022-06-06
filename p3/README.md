@@ -25,7 +25,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 Dataset | Endereço na Web | Resumo descritivo
 ----- | ----- | -----
-Mixed.species_brain_1 | [Link para base](https://s3.amazonaws.com/connectome-graphs/cat/mixed.species_brain_1.graphml) | Breve resumo (duas ou três linhas) sobre o dataset.
+Mixed.species_brain_1 | [Link para base](https://s3.amazonaws.com/connectome-graphs/cat/mixed.species_brain_1.graphml) | O conjunto de dados de conectividade do gato compreende uma descrição das conexões corticocorticais no cérebro do gato. Nenhuma informação específica sobre o sexo dos animais incluídos estava disponível, sugerindo que o conjunto de dados inclui informações combinadas sobre a conectividade de gatos machos e fêmeas. O conjunto incorpora dados de um hemisfério, incluindo 65 regiões, ou nós, e 1139 projeções axonais macroscópicas inter-regionais, ou arestas, com a força das conexões.
 
 ## Método
 
