@@ -16,9 +16,7 @@ A seguir é apresentada a estrutura de pastas dos projetos:
 │
 ├── p2   <- projeto p2
 │
-├── p3   <- projeto p3
-│
-└── p4   <- projeto p4
+└── p3   <- projeto p3
 ```
 
 Cada pasta a seguir corresponde a uma entrega do trabalho:
