@@ -11,7 +11,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 ## Referência bibliográfica do artigo lido
 
-> Coloque aqui a referência bibliográfica do artigo lido, incluindo o link para o site.
+[Rich Club Organization and Intermodule Communication in the Cat Connectom](https://doi.org/10.1523/JNEUROSCI.1448-13.2013)
 
 ## Resumo
 
@@ -25,7 +25,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 Dataset | Endereço na Web | Resumo descritivo
 ----- | ----- | -----
-Título do Dataset | <http://base1.org/> | Breve resumo (duas ou três linhas) sobre o dataset.
+Mixed.species_brain_1 | [Link para base](https://s3.amazonaws.com/connectome-graphs/cat/mixed.species_brain_1.graphml) | Breve resumo (duas ou três linhas) sobre o dataset.
 
 ## Método
 
